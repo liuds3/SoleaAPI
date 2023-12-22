@@ -63,4 +63,4 @@ jobs:
           app-name: 'devpointedd'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_786DB0BCBBAA4EB49C7BBBBBA27AE245 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9B7FD8B3C9D14871B2B53763848245AA }}
