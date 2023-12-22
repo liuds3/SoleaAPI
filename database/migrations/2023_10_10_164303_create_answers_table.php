@@ -16,7 +16,6 @@ return new class extends Migration
             $table->unsignedBigInteger('id_question');
             $table->string('user');
             $table->string('answer');
-            $table->string('image');
             $table->timestamps();
         });
     }
